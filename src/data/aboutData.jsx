@@ -16,7 +16,7 @@ const aboutData = {
 
     resume: {
         label: "My Dissertation Journal",
-        href: null,
+        href: "https://drive.google.com/file/d/1PP_TFgT9qBpqXHRm08dguGr9NmOs-4nH/view?usp=sharing",
         icon: "bx bx-download",
     },
 
