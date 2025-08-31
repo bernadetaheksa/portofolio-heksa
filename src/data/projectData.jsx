@@ -86,8 +86,8 @@ const projectData = {
       tech: ["Canva", "UI/UX Design", "Prototyping"],
       year: 2024,
       status: "Completed",
-      demo: "https://digitaly-id.vercel.app/",
-      github: "https://github.com/bernadetaheksa/digitaly.id"
+      demo: "#home",
+      github: "#home"
     },
     {
       icon: "bx bx-tab",
@@ -104,8 +104,8 @@ const projectData = {
       tech: ["HTML5", "CSS3", "Bootstrap 5", "Vercel", "MongoDB"],
       year: 2025,
       status: "In Progress",
-      demo: "#home",
-      github: "#home"
+      demo: "https://digitaly-id.vercel.app/",
+      github: "https://github.com/bernadetaheksa/digitaly.id"
     },
     {
       icon: "bx bx-cloud-lightning",
