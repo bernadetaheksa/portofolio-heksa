@@ -86,8 +86,8 @@ const projectData = {
       tech: ["Canva", "UI/UX Design", "Prototyping"],
       year: 2024,
       status: "Completed",
-      demo: "#home",
-      github: "#home"
+      demo: "https://digitaly-id.vercel.app/",
+      github: "https://github.com/bernadetaheksa/digitaly.id"
     },
     {
       icon: "bx bx-tab",

@@ -83,9 +83,9 @@ const Projects = () => {
         <div className="flex justify-center mb-8 gap-4 flex-wrap" data-aos-delay="600" data-aos="fade-down">
           {[
             { value: "all", label: "All Projects", icon: "bx bx-grid-alt" },
+            { value: "Frontend", label: "Frontend", icon: "bx bx-code-alt" },
             { value: "Academic", label: "Academic", icon: "bx bx-desktop" },
             { value: "Creative", label: "Creative", icon: "bx bx-brush" },
-            { value: "Frontend", label: "Frontend", icon: "bx bx-code-alt" },
           ].map((tab) => (
             <button
               key={tab.value}
