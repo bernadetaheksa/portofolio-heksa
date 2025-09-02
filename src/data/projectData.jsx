@@ -6,6 +6,22 @@ const projectData = {
   projects: [
     {
       icon: "bx bx-badge-check",
+      title: "Skincare Poster",
+      type: "Creative",
+      features: [
+        "Blue-white pallete delivers a fresh, clean, and natural impresion.",
+        "Sky-inspired background adds a light & natural vibe, reinforcing the brand's storytelling.",
+        "Elegant typography (script + serif) blends modern and premium aesthetics.",
+        "Minimalist composition keeps the focus on the product, making it easily recognizeable.",
+        "Soft lighting creates a glowing effect that enchanes visual appeal and perceived value.",
+      ],
+      tech: ["Graphic Design Principles", "Canva", "Branding", "visual Product"],
+      year: 2024,
+      status: "Completed",
+      demo: "https://dribbble.com/shots/26477174-Skincare-Poster-Moisturizer-Cream?utm_source=Clipboard_Shot&utm_campaign=bernadeta-heksa-namelia-christ&utm_content=Skincare%20Poster%20-%20Moisturizer%2FCream&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=bernadeta-heksa-namelia-christ&utm_content=Skincare%20Poster%20-%20Moisturizer%2FCream&utm_medium=Social_Share",
+    },
+    {
+      icon: "bx bx-badge-check",
       title: "Branding Kit",
       type: "Creative",
       features: [
